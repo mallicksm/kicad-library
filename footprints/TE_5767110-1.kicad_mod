@@ -1,4 +1,4 @@
-(module TE_5767110-1 (layer F.Cu) (tedit 5EAA308D)
+(module TE_5767110-1 (layer F.Cu) (tedit 5EAB22FB)
   (fp_text reference REF** (at -8.8476 -6.051) (layer F.SilkS)
     (effects (font (size 1.402551 1.402551) (thickness 0.015)))
   )
@@ -65,4 +65,9 @@
   (pad CG4 thru_hole circle (at 2.54 0) (size 0.9 0.9) (drill 0.64) (layers *.Cu *.Mask))
   (pad CG5 thru_hole circle (at 5.08 0) (size 0.9 0.9) (drill 0.64) (layers *.Cu *.Mask))
   (pad None np_thru_hole circle (at 12.11 0) (size 3.53 3.53) (drill 3.53) (layers *.Cu *.Mask))
+  (model ${KICAD_USER_LIBRARY}/3dmodels/TE_5767110-1.stp
+    (offset (xyz 0 0 6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -1,5 +1,5 @@
-(module BarrelJack_JCJ_RJ-005-P001 (layer F.Cu) (tedit 5EA865F6)
-  (descr "Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf")
+(module BarrelJack_JCJ_RJ-005-P001 (layer F.Cu) (tedit 5EAB225C)
+  (descr "Sparkfun barrel jack w/switch ")
   (tags "connector barrel jack")
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
