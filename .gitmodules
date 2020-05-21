@@ -1,0 +1,12 @@
+[submodule "official-kicad-library/kicad-symbols3d"]
+	path = official-kicad-library/kicad-symbols3d
+	url = https://github.com/KiCad/kicad-footprints
+[submodule "official-kicad-library/kicad-templates"]
+	path = official-kicad-library/kicad-templates
+	url = https://github.com/KiCad/kicad-footprints
+[submodule "official-kicad-library/kicad-footprints"]
+	path = official-kicad-library/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints
+[submodule "official-kicad-library/kicad-symbols"]
+	path = official-kicad-library/kicad-symbols
+	url = https://github.com/KiCad/kicad-footprints
