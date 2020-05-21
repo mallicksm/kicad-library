@@ -10,3 +10,6 @@
 [submodule "official-kicad-library/kicad-symbols"]
 	path = official-kicad-library/kicad-symbols
 	url = https://github.com/KiCad/kicad-footprints
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library
